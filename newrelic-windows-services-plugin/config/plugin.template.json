@@ -1,0 +1,9 @@
+{
+  "agents": [
+    {
+      "name": "LOCAL",
+      "machineName": "MACHINE_NAME",
+      "serviceName":  "SERVICE_NAME"
+    }
+  ]
+}
